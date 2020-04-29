@@ -14,5 +14,5 @@ def unisection():
     set1 = set(A)
     set2 = set(B)
 
-    print("=> union ", set1&set2)
-    print("=> intersection ", set1|set2)
+    print("=> union ", set1|set2)
+    print("=> intersection ", set1&set2)
